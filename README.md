@@ -36,8 +36,8 @@ The project introduces basic React concepts such as components, state, and event
 - **CDN-based setup:** Loading libraries like React directly from a URL instead of using a build tool
 
 ## Live Demo
-You can view the project here (CodePen Full Page):  
-👉 https://codepen.io/Mitch-Ferg/full/WBWKdv
+You can view the project here 
+https://mitchferg2016.github.io/fcc-front-end-lib-cert-build-random-quote-machine-january16-2026/
 
 > Note: GitHub Pages hosting may be added later for this repository.
 
